@@ -69,5 +69,5 @@ An AI-powered attendance management system with facial recognition, advanced ana
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Tharun06102005/smart-attendence-system/tree/main
+   git clone https://github.com/Tharun06102005/smart-attendance-system
    cd attendance-system
